@@ -2,7 +2,7 @@
 pipeline {
 
     agent { 
-        label 'centos7' 
+        label 'centos7_Slave' 
     }
 
     triggers {
